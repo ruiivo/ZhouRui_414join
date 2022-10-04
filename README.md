@@ -7,4 +7,4 @@
 ### 2.8 图片
 ![我最喜欢的汉堡](https://github.com/ruiivo/ZhouRui_414join/blob/main/b2db2f2266d377030982e83feda3667.jpg?raw=true)
 ## 2.2 作品
-![通过抠图将大部分人物放在中央，硝烟战火和即将掉落的飞机，还有陨石点缀，背景的高楼做了一些处理，配合天空，给这个画面一些想象，马上要决战的感觉。](https://ibb.co/LzBs511)
+![通过抠图将大部分人物放在中央，硝烟战火和即将掉落的飞机，还有陨石点缀，背景的高楼做了一些处理，配合天空，给这个画面一些想象，马上要决战的感觉。](https://github.com/ruiivo/ZhouRui_414join/blob/main/%E9%83%A8%E5%88%86%E6%88%90%E5%91%98%20jpg%E7%89%88%E6%9C%AC.jpg?raw=true)
